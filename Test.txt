@@ -1,6 +1,4 @@
 master
-<<<<<<< HEAD
+HEAD
 login
-=======
 payment
->>>>>>> payment
